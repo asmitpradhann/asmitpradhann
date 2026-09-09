@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a developer and AI enthusiast who loves building clean web experiences and exploring intelligent systems. I work across the full stack from crafting interfaces with React to building backend APIs with Django — while learning the ropes of machine learning and deep learning along the way
+I'm a developer and AI enthusiast who loves building clean web experiences and exploring intelligent systems. I work across the full stack from crafting interfaces with React to building backend APIs with Django - while learning the basics of machine learning and deep learning along the way
 
 
 ## 🌐 Socials:
